@@ -166,6 +166,9 @@ open Bloom.xcodeproj
 
 ---
 
+## 🎥 시연영상
+https://drive.google.com/file/d/1SaqtIvnykvxTJLZkYBROIdk39rbOK3lr/view?usp=sharing
+
 ## 🌱 향후 개선 아이디어
 
 - [ ] 물리 키링 BLE 연동 (CoreBluetooth)
